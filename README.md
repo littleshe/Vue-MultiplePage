@@ -1,6 +1,10 @@
 # Vue-MultiplePage
 基于vue-cli的多页面架构实践
 
+[webpack.dev.conf.js改动](https://github.com/littleshe/Vue-MultiplePage/blob/master/build/webpack.dev.conf.js#L16)
+
+[webpack.prod.conf.js改动](https://github.com/littleshe/Vue-MultiplePage/blob/master/build/webpack.prod.conf.js#L23)
+
 ## 目录结构
 
 ```
